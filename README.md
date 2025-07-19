@@ -1,9 +1,4 @@
-# Gmail Automation with CrewAI 📧✨
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCApiD66gf36M9hZanbjgNaw?style=social)](https://www.youtube.com/@tonykipkemboi)
-[![GitHub followers](https://img.shields.io/github/followers/tonykipkemboi?style=social)](https://github.com/tonykipkemboi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tonykipkemboi?style=social)](https://twitter.com/tonykipkemboi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tonykipkemboi/)
 
 Gmail Automation with CrewAI is an intelligent email management system that uses AI agents to categorize, organize, respond to, and clean up your Gmail inbox automatically.
 
